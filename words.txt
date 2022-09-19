@@ -11,3 +11,11 @@ Life, Knife
 Knife, Fork
 Grass, Soil 
 Mouse, Cheese
+
+red 
+yellow
+green
+blue
+indigo
+violet
+
