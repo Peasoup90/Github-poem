@@ -6,3 +6,4 @@ Pen, Hen
 Key, Tree
 Bed, Dead
 Book, Look
+Life, Knife
