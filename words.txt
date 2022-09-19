@@ -11,6 +11,8 @@ Life, Knife
 Knife, Fork
 Grass, Soil 
 Mouse, Cheese
+aquamarine
+
 
 red 
 yellow
@@ -18,4 +20,7 @@ green
 blue
 indigo
 violet
+
+
+
 
