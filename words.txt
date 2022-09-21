@@ -20,6 +20,10 @@ green
 blue
 indigo
 violet
+orange 
+black 
+brown 
+white
 
 
 
