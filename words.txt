@@ -25,6 +25,6 @@ black
 brown 
 white
 purple
-
+teal
 
 
